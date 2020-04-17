@@ -7,5 +7,5 @@
       debugger
      })
 
-    * ![](../image/tujia_debug.png)
+    * ![tujia_debug](./image/tujia_debug.png)
 
