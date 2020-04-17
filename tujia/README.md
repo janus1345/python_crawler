@@ -6,5 +6,5 @@
 debugger
 })
 
-    * ./image/tujia_debug.png
+    * image/tujia_debug.png
 
