@@ -7,5 +7,5 @@
       debugger
      })
 
-    * ![avatar](/image/tujia_debug.png)
+    * ![image](/image/tujia_debug.png)
 
